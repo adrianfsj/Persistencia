@@ -1,1 +1,1 @@
-# Persistencia
+Esta aplicación recoge dos archivos txt, cada uno tiene una matriz 3x3, y los multiplica. Además, guarda el resultado en un archivo llamado resultado.txt. La aplicación tiene un test Junit donde se comprueba que la operación da el resultado correcto
